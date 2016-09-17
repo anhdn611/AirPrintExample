@@ -15,6 +15,7 @@
 		533573201D8CFBCF00090843 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5335731E1D8CFBCF00090843 /* LaunchScreen.storyboard */; };
 		5335732B1D8CFBD000090843 /* AirPrintDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5335732A1D8CFBD000090843 /* AirPrintDemoTests.m */; };
 		533573361D8CFBD000090843 /* AirPrintDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 533573351D8CFBD000090843 /* AirPrintDemoUITests.m */; };
+		533573441D8D00A600090843 /* InvoiceSimple.html in Resources */ = {isa = PBXBuildFile; fileRef = 533573431D8D00A600090843 /* InvoiceSimple.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		533573311D8CFBD000090843 /* AirPrintDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirPrintDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		533573351D8CFBD000090843 /* AirPrintDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AirPrintDemoUITests.m; sourceTree = "<group>"; };
 		533573371D8CFBD000090843 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		533573431D8D00A600090843 /* InvoiceSimple.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = InvoiceSimple.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				533573161D8CFBCF00090843 /* ViewController.h */,
 				533573171D8CFBCF00090843 /* ViewController.m */,
 				533573191D8CFBCF00090843 /* Main.storyboard */,
+				533573431D8D00A600090843 /* InvoiceSimple.html */,
 				5335731C1D8CFBCF00090843 /* Assets.xcassets */,
 				5335731E1D8CFBCF00090843 /* LaunchScreen.storyboard */,
 				533573211D8CFBCF00090843 /* Info.plist */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				533573441D8D00A600090843 /* InvoiceSimple.html in Resources */,
 				533573201D8CFBCF00090843 /* LaunchScreen.storyboard in Resources */,
 				5335731D1D8CFBCF00090843 /* Assets.xcassets in Resources */,
 				5335731B1D8CFBCF00090843 /* Main.storyboard in Resources */,
